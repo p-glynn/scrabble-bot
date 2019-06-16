@@ -1,0 +1,14 @@
+{
+  "name": "scrabble-bot",
+  "version": "1.0.0",
+  "description": "\"scrabble-fy\" messages",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "p-glynn",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
