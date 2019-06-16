@@ -4,7 +4,8 @@
   "description": "\"scrabble-fy\" messages",
   "main": "app.js",
   "scripts": {
-    "test": "test"
+    "test": "test",
+    "start": "nodemon app.js"
   },
   "author": "p-glynn",
   "license": "ISC",
